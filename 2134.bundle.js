@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunk=self.webpackChunk||[]).push([[2134],{2134(e,t,r){r.r(t),r.d(t,{default:()=>n});var l=r(7378);function n(){return l.createElement(l.Fragment,null,l.createElement("path",{d:"M11 25.1344V22.8652H36.9999V25.1344H11Z",fill:"currentColor"}))}}}]);
+//# sourceMappingURL=2134.bundle.js.map
